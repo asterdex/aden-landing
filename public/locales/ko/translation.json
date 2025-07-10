@@ -1,0 +1,189 @@
+{
+  "navigation": {
+    "fee": "수수료",
+    "support": "고객센터"
+  },
+  "hero": {
+    "badge": "DEX 암호화폐 선물 거래 플랫폼",
+    "title": "검증된 기술력의 최저 수수료 DEX",
+    "description": "중앙화 거래소의 오더북 시스템의 편리함과 탈중앙화의 자유로움이 결합되었습니다. 초보자에게는 쉽고, 전문가에게는 더 강력합니다."
+  },
+  "statistics": {
+    "cumulativeVolume": "누적 거래량",
+    "activeTraders": "활성 트레이더",
+    "tradableMarkets": "거래 가능 시장",
+    "dailyVolume": "일일 거래량"
+  },
+  "features": {
+    "section": {
+      "badge": "기능",
+      "title": "왜 ADEN인가?"
+    },
+    "card1": {
+      "badge": "언제든지 원활한 자산 이전",
+      "title": "Orderly Network의 화이트라벨 인프라",
+      "description": "ADEN은 글로벌 선물 거래 인프라인 Orderly Network의 화이트라벨 솔루션을 기반으로 구축되어, 검증된 기술로 안전한 거래 환경울 추구합니다.",
+      "subtitle": "화이트라벨 파생상품 거래소",
+      "features": "즉시 입출금<br/>자산에 대한 완전한 통제"
+    },
+    "card2": {
+      "badge": "CEX 수준의 거래 경험",
+      "title": "주요 거래소가 선택한 신뢰할 수 있는 인프라",
+      "description": "Orderly는 빗썸, 바이빗, 빗겟 등 국내외 주요 거래소가 신뢰하는 안정성과 기술력을 인정받은 거래 인프라입니다.",
+      "subtitle": "상장 거래소",
+      "features": "Orderly - 빗썸, 바이빗 상장<br/>2022년 부터 진행된 프로젝트<br/>시장 검증 인프라<br/>CEX 수준의 속도와 안정성"
+    },
+    "card3": {
+      "badge": "최적화된 거래 조건",
+      "title": "글로벌급 엔진 + ADEN만의 혁신",
+      "description": "ADEN은 WOOFi 및 Raydium과 함께 Orderly Network의 글로벌 오더북을 공유하여, 동일한 유동성과 거래 체결 경험을 제공합니다.",
+      "subtitle": "글로벌 오더북 공유 파트너",
+      "features": "Raydium과 WOOFi와 함께 Orderly Network를 공유합니다.<br/>검증된 파트너사와 함께하는 안정적인 거래 환경"
+    },
+    "card4": {
+      "badge": "주요 거래소 상장 프로젝트",
+      "title": "이미 검증된 프로젝트와 함께하는 ADEN",
+      "description": "ADEN은 Raydium과 WOOFi 같은 메이저 거래소 상장 프로젝트들과 함께합니다. 바이낸스, 업비트 등 글로벌 거래소에서 검증된 프로젝트들과 동일한 Orderly Network를 통해 안정적이고 신뢰할 수 있는 거래 환경을 제공합니다.",
+      "subtitle": "메이저 거래소 상장 프로젝트",
+      "features": "Raydium - 업비트, 바이낸스, OKX 상장<br/>WOOFi - 바이낸스, OKX, Bybit 상장"
+    }
+  },
+  "feeComparison": {
+    "section": {
+      "badge": "수수료 비교",
+      "title": "업계 최저 거래 수수료"
+    },
+    "dex": {
+      "title": "DEX (탈중앙화 거래소)<br/>기본 수수료 비교",
+      "table": {
+        "exchange": "거래소",
+        "maker": "지정가",
+        "makerFee": "지정가 수수료",
+        "taker": "시장가",
+        "takerFee": "시장가 수수료",
+        "notes": "비고"
+      },
+      "actualFees": {
+        "title": "실제 적용 수수료",
+        "limitOrder": "지정가",
+        "marketOrder": "시장가",
+        "mmLiquidityFee": "MM 유동성 제공자 수수료",
+        "disclaimer": "* MM(Market maker) 수수료는 ADEN과 무관"
+      }
+    },
+    "cex": {
+      "title": "CEX (중앙화 거래소)<br/>기본 수수료 비교",
+      "table": {
+        "exchange": "거래소",
+        "maker": "지정가",
+        "taker": "시장가",
+        "payback": "페이백",
+        "paybackApplied": "페이백 적용 시",
+        "notes": "비고"
+      },
+      "paybackRates": {
+        "maker001": "지정가 0.01%",
+        "taker003": "시장가 0.03%",
+        "payback50": "페이백 50%",
+        "maker004": "지정가 0.004%",
+        "taker01": "시장가 0.01%",
+        "payback80": "페이백 80%",
+        "noFees": "수수료 없음"
+      },
+      "actualFees": {
+        "title": "실제 적용 수수료",
+        "limitOrder": "지정가",
+        "marketOrder": "시장가",
+        "mmLiquidityFee": "MM 유동성 제공자 수수료",
+        "disclaimer": "* MM(Market maker) 수수료는 ADEN과 무관"
+      }
+    }
+  },
+  "professionalTrading": {
+    "section": {
+      "badge": "하이라이트",
+      "title": "전문 거래 플랫폼"
+    },
+    "features": {
+      "orderBook": "실시간 오더북 깊이 및 시장 데이터",
+      "orderTypes": "다양한 주문 유형 지원",
+      "orderTypesDesc": "지정가, 시장가, 스톱 주문 등 다양한 주문 유형을 통해 정교한 거래 전략을 구현할 수 있습니다.",
+      "execution": "빠른 실행 및 주문 관리",
+      "history": "포괄적인 거래 내역 추적"
+    }
+  },
+  "keyDifferentiators": {
+    "section": {
+      "badge": "주요 차별화 요소",
+      "title": "우리 DEX의 독특한 가치"
+    },
+    "security": {
+      "title": "자산 보안의 새로운 표준",
+      "description1": "자산은 중앙화된 거래소가 아닌 스마트 컨트랙트에 의해 직접 관리됩니다",
+      "description2": "스마트 컨트랙트 로직으로 구동되는 투명한 거래"
+    },
+    "reliability": {
+      "title": "24/7 안정적인 운영",
+      "description1": "시스템 유지보수나 서비스 중단 시간 없음",
+      "description2": "글로벌 시장 수요에 맞춰 지속적으로 운영"
+    },
+    "unrestricted": {
+      "title": "제한 없는 거래 환경",
+      "description1": "일일 한도나 거래 제한이 전혀 없습니다—자유롭고 개방적으로 거래하세요.",
+      "description2": "모든 사용자에게 항상 동일한 도구와 평등한 거래 조건이 제공됩니다."
+    }
+  },
+  "securityTrust": {
+    "section": {
+      "badge": "보안 및 신뢰",
+      "title": "업계 최고 수준의 보안 검증"
+    }
+  },
+  "quickStart": {
+    "section": {
+      "badge": "빠른 시작 가이드",
+      "title": "간단한 3단계 프로세스"
+    },
+    "steps": {
+      "connectWallet": {
+        "title": "지갑 연결",
+        "description": "모든 주요 Web3 지갑 지원"
+      },
+      "depositAssets": {
+        "title": "자산 예치",
+        "description": "스마트 컨트랙트로 안전하게 관리"
+      },
+      "startTrading": {
+        "title": "거래 시작",
+        "description": "친숙한 인터페이스로 즉시 거래"
+      }
+    }
+  },
+  "partners": {
+    "section": {
+      "badge": "최고의 파트너들이 신뢰합니다.",
+      "title": "차세대 거래 플랫폼, ADEN 지금 경험하세요."
+    }
+  },
+  "modals": {
+    "comingSoon": {
+      "title": "곧 출시 예정",
+      "description": "ADEN 거래 플랫폼이 곧 출시됩니다.<br/>전 세계 최저의 수수료와 <br/>최고의 DEX 거래 경험을 준비하고 있습니다.",
+      "confirm": "확인"
+    },
+    "support": {
+      "title": "고객지원 채널 선택",
+      "telegram": {
+        "name": "Telegram",
+        "handle": "@ANT_CS"
+      },
+      "kakaoTalk": {
+        "name": "KakaoTalk",
+        "channel": "ADEN 공식 채널"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 ADEN 프로토콜. 모든 권리 보유."
+  }
+}

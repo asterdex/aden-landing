@@ -1,0 +1,195 @@
+{
+  "navigation": {
+    "fee": "Fee",
+    "support": "Support"
+  },
+  "hero": {
+    "badge": "DEX Crypto Futures Trading Platform",
+    "title": "A Pro-Grade Order Book DEX for Everyone",
+    "description": "The convenience of a centralized exchange order book system combined with the freedom of decentralization. Easy for beginners, more powerful for experts."
+  },
+  "statistics": {
+    "cumulativeVolume": "Cumulative Trading Volume",
+    "activeTraders": "Active Traders",
+    "tradableMarkets": "Tradable Markets",
+    "dailyVolume": "Daily Trading Volume"
+  },
+  "features": {
+    "section": {
+      "badge": "Features",
+      "title": "Why ADEN?"
+    },
+    "card1": {
+      "badge": "Seamless Asset Transfers Anytime",
+      "title": "Orderly Network's White-Label Infrastructure",
+      "description": "ADEN is built on the white-label solution of the global futures trading infrastructure, Orderly Network, ensuring secure asset transfers at any time with proven technology.",
+      "subtitle": "White-label Derivatives Exchange",
+      "features": "Instant deposits and withdrawals<br/>Full control over assets"
+    },
+    "card2": {
+      "badge": "CEX-Level Trading Experience",
+      "title": "Trusted Infrastructure Chosen by Leading Exchanges",
+      "description": "Orderly is a trading infrastructure recognized for its reliability and technological strength, trusted by major domestic and global exchanges such as Bithumb, Bybit, and Bitget.",
+      "subtitle": "Listed Exchange",
+      "features": "Orderly - Listed on Bithumb, Bybit<br/>Project ongoing since 2022<br/>Market-validated infrastructure<br/>CEX-level speed and stability"
+    },
+    "card3": {
+      "badge": "Optimized Trading Conditions",
+      "title": "Global-Grade Engine + ADEN's Unique Innovation",
+      "description": "ADEN shares Orderly Network's global order book with WOOFi and Raydium, providing the same liquidity and trade execution experience. We offer an optimized trading experience based on the stability and speed of a world-class trading engine.",
+      "subtitle": "Global Order Book Sharing Partners",
+      "features": "Sharing Orderly Network with Raydium and WOOFi.<br/>Stable trading environment with verified partners"
+    },
+    "card4": {
+      "badge": "Major Exchange Listed Projects",
+      "title": "ADEN partnering with market-proven projects",
+      "description": "ADEN partners with major exchange-listed projects like Raydium and WOOFi. We provide a stable and reliable trading environment through the same Orderly Network used by projects verified on global exchanges such as Binance and Upbit.",
+      "subtitle": "Major Exchange Listed Projects",
+      "features": "Raydium - Listed on Upbit, Binance, OKX<br/>WOOFi - Listed on Binance, OKX, Bybit"
+    }
+  },
+  "feeComparison": {
+    "section": {
+      "badge": "Fee Comparison",
+      "title": "Lowest Trading Fees in the Industry"
+    },
+    "dex": {
+      "title": "DEX (Decentralized Exchange)<br/>Base Fee Comparison",
+      "table": {
+        "exchange": "Exchange",
+        "maker": "Maker",
+        "makerFee": "Maker Fee",
+        "taker": "Taker",
+        "takerFee": "Taker Fee",
+        "notes": "Notes"
+      },
+      "actualFees": {
+        "title": "Actual Applied Fees",
+        "limitOrder": "Limit Order",
+        "marketOrder": "Market Order",
+        "mmLiquidityFee": "MM Liquidity Provider Fee",
+        "disclaimer": "* MM (Market maker) fees are unrelated to ADEN"
+      }
+    },
+    "cex": {
+      "title": "CEX (Centralized Exchange)<br/>Base Fee Comparison",
+      "table": {
+        "exchange": "Exchange",
+        "maker": "Maker",
+        "taker": "Taker",
+        "payback": "Payback",
+        "paybackApplied": "Payback Applied",
+        "notes": "Notes"
+      },
+      "paybackRates": {
+        "maker001": "Maker 0.01%",
+        "taker003": "Taker 0.03%",
+        "payback50": "Payback 50%",
+        "maker004": "Maker 0.004%",
+        "taker01": "Taker 0.01%",
+        "payback80": "Payback 80%",
+        "noFees": "No Fees"
+      },
+      "actualFees": {
+        "title": "Actual Applied Fees",
+        "limitOrder": "Limit Order",
+        "marketOrder": "Market Order",
+        "mmLiquidityFee": "MM Liquidity Provider Fee",
+        "disclaimer": "* MM (Market maker) fees are unrelated to ADEN"
+      }
+    }
+  },
+  "professionalTrading": {
+    "section": {
+      "badge": "Highlights",
+      "title": "Professional Trading Platform"
+    },
+    "features": {
+      "orderBook": "Real-time order book depth and market data",
+      "orderTypes": "Multiple order types supported",
+      "orderTypesDesc": "Implement sophisticated trading strategies with limit orders, market orders, stop orders, and more.",
+      "execution": "Fast execution and order management",
+      "history": "Comprehensive trade history tracking"
+    }
+  },
+  "keyDifferentiators": {
+    "section": {
+      "badge": "Key Differentiators",
+      "title": "Unique Value of Our DEX"
+    },
+    "security": {
+      "title": "A New Standard for Asset Security",
+      "description1": "Assets are managed directly by smart contracts, not centralized exchanges",
+      "description2": "Transparent transactions powered by smart contract logic"
+    },
+    "reliability": {
+      "title": "Reliable Operation with 24/7 Uptime",
+      "description1": "No system maintenance or service downtime",
+      "description2": "Runs continuously to match global market demands"
+    },
+    "unrestricted": {
+      "title": "Unrestricted Trading Environment",
+      "description1": "No daily limits or trading restrictions of any kind—trade freely and openly.",
+      "description2": "All users are offered the same tools and equal trading conditions at all times."
+    }
+  },
+  "securityTrust": {
+    "section": {
+      "badge": "Security & Trust",
+      "title": "Security verification at the highest industry standards"
+    }
+  },
+  "quickStart": {
+    "section": {
+      "badge": "Quick Start Guide",
+      "title": "Simple 3-Step Process"
+    },
+    "steps": {
+      "connectWallet": {
+        "title": "Connect Wallet",
+        "description": "Supports all major Web3 wallets"
+      },
+      "depositAssets": {
+        "title": "Deposit Assets",
+        "description": "Securely managed by smart contracts"
+      },
+      "startTrading": {
+        "title": "Start Trading",
+        "description": "Trade instantly with a familiar interface"
+      }
+    }
+  },
+  "partners": {
+    "section": {
+      "badge": "Trusted by the best partners.",
+      "title": "Next-generation trading platform, ADEN Experience it now."
+    }
+  },
+  "modals": {
+    "comingSoon": {
+      "title": "Coming Soon",
+      "description": "The ADEN trading platform is launching soon.<br/>We're preparing the world's lowest fees and <br/>the best DEX trading experience.",
+      "confirm": "Confirm"
+    },
+    "startTrading": {
+      "title": "Start Trading",
+      "description": "The ADEN trading platform is launching soon.<br/>We're preparing the world's lowest fees and <br/>the best DEX trading experience.",
+      "asterTradeNow": "Trade with Aster Now",
+      "orderlyTradeNow": "Trade with Orderly Now"
+    },
+    "support": {
+      "title": "Select Support Channel",
+      "telegram": {
+        "name": "Telegram",
+        "handle": "@ANT_CS"
+      },
+      "kakaoTalk": {
+        "name": "KakaoTalk",
+        "channel": "ADEN Official Channel"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 ADEN Protocol. All rights reserved."
+  }
+}

@@ -16,7 +16,9 @@ export default function LanguageSwitch() {
         return (
           <a
             key={lang}
-            href={lang === "en" ? "/v1" : `/${lang}/v1`}
+            href={
+              lang === "en" ? "/aden-landing/v1" : `/aden-landing/${lang}/v1`
+            }
             type="button"
             className={cn(
               "px-4 py-2 rounded-[18px] font-play text-sm font-bold transition-all uppercase text-aden-text-muted",

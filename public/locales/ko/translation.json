@@ -171,6 +171,11 @@
       "description": "ADEN 거래 플랫폼이 곧 출시됩니다.<br/>전 세계 최저의 수수료와 <br/>최고의 DEX 거래 경험을 준비하고 있습니다.",
       "confirm": "확인"
     },
+    "startTrading": {
+      "title": "거래 시작",
+      "asterTradeNow": "Aster로 지금 거래하기",
+      "orderlyTradeNow": "Orderly로 지금 거래하기"
+    },
     "support": {
       "title": "고객지원 채널 선택",
       "telegram": {

@@ -171,6 +171,12 @@
       "description": "The ADEN trading platform is launching soon.<br/>We're preparing the world's lowest fees and <br/>the best DEX trading experience.",
       "confirm": "Confirm"
     },
+    "startTrading": {
+      "title": "Start Trading",
+      "description": "The ADEN trading platform is launching soon.<br/>We're preparing the world's lowest fees and <br/>the best DEX trading experience.",
+      "asterTradeNow": "Trade with Aster Now",
+      "orderlyTradeNow": "Trade with Orderly Now"
+    },
     "support": {
       "title": "Select Support Channel",
       "telegram": {

@@ -2,6 +2,8 @@ const config = {
   defaultLocale: "en",
   locales: ["en", "ko"],
   load: ["server", "client"],
+  fallbackLng: "en",
+  resourcesBasePath: "/aden-landing/locales",
   i18nextServer: {
     debug: true,
   },

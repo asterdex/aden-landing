@@ -7,9 +7,10 @@ import react from "@astrojs/react";
 
 export default defineConfig({
   site: "https://aden.io",
-  base: "/v1",
   output: "static",
-
+  redirects: {
+    "/": "v1",
+  },
   build: {
     assets: "assets",
   },

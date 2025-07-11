@@ -21,11 +21,13 @@
     "@types/react-dom": "^19.1.6",
     "astro": "^5.11.0",
     "astro-i18next": "^1.0.0-beta.21",
+    "astro-react-i18next": "^0.3.2",
     "class-variance-authority": "^0.7.1",
     "i18next": "^25.3.2",
     "lucide-react": "^0.525.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-i18next": "^15.6.0",
     "tailwindcss": "^4.1.11",
     "typescript": "^5.8.3"
   },

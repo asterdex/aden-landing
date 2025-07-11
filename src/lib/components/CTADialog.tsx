@@ -1,17 +1,20 @@
 import {
   Dialog,
   DialogContent,
-  DialogDescription,
   DialogHeader,
   DialogTitle,
   DialogTrigger,
 } from "./ui/dialog";
+import { useTranslation } from "react-i18next";
+import React from "react";
 
 export default function CTADialog() {
+  const { t } = useTranslation();
+
   return (
     <Dialog>
       <DialogTrigger className="flex items-center justify-center gap-2 h-12 md:h-[52px] px-6 py-2 bg-aden-primary rounded-[10px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] flex-1 md:flex-initial hover:bg-aden-primary/90 transition-colors">
-        Start Trading →
+        {t("modals.comingSoon.title")} →
       </DialogTrigger>
       <DialogContent className="bg-black/90 border border-white/20 rounded-2xl p-6 md:p-8 w-full max-w-[400px]">
         <DialogHeader>
@@ -40,21 +43,25 @@ export default function CTADialog() {
             </svg>
           </div>
           <DialogTitle className="text-white font-pretendard text-2xl md:text-3xl font-bold text-center">
-            Start Trading
+            {/* {t("modals.comingSoon.title")} */}
+            Trade With Aster
           </DialogTitle>
 
           <div className="text-center mb-6">
             <p
               className="text-white/80 font-pretendard text-base md:text-lg leading-relaxed"
-              data-lang-ko="ADEN 거래 플랫폼이 곧 출시됩니다.<br>전 세계 최저의 수수료와 <br> 최고의 DEX 거래 경험을 준비하고 있습니다."
-              data-lang-en="The ADEN trading platform is launching soon.<br>We're preparing the world's lowest fees and <br>the best DEX trading experience."
-            >
-              ADEN 거래 플랫폼이 곧 출시됩니다.
-              <br />
-              전 세계 최저의 수수료와 <br /> 최고의 DEX 거래 경험을 준비하고
-              있습니다.
-            </p>
+              dangerouslySetInnerHTML={{
+                __html: t("modals.comingSoon.description"),
+              }}
+            />
           </div>
+
+          <a
+            href="/#"
+            className="flex items-center justify-center gap-2 h-12 md:h-[52px] px-6 py-2 bg-aden-primary rounded-[10px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] flex-1 md:flex-initial hover:bg-aden-primary/90 transition-colors"
+          >
+            Go to Aster
+          </a>
         </DialogHeader>
       </DialogContent>
     </Dialog>

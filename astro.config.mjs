@@ -8,6 +8,7 @@ import react from "@astrojs/react";
 export default defineConfig({
   site: "https://aden.io",
   output: "static",
+  base: "/aden-landing",
   redirects: {
     "/": "v1",
   },
